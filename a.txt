@@ -1,2 +1,6 @@
 hii bro
+<<<<<<< HEAD
 how are yo??
+=======
+how are you/??
+>>>>>>> sheets
